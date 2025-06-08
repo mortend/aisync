@@ -1,0 +1,36 @@
+{
+  "name": "aisync",
+  "version": "1.0.0",
+  "description": "Seamlessly sync the latest AI output in a flash.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "dev": "tsc --watch"
+  },
+  "bin": {
+    "aisync": "./dist/index.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "@types/unzipper": "^0.10.11",
+    "typescript": "^4.0.0"
+  },
+  "keywords": [
+    "ai",
+    "zip",
+    "extract",
+    "sync",
+    "automation",
+    "command-line",
+    "tool",
+    "output",
+    "files",
+    "ai-output"
+  ],
+  "author": "Morten D. Fornes",
+  "license": "MIT"
+}

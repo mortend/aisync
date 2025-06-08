@@ -1,0 +1,32 @@
+# Node modules
+/node_modules/
+
+# TypeScript build output
+/dist/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Environment variables file
+.env
+
+# npm package lock file
+package-lock.json
+
+# TypeScript declaration files
+*.d.ts
+
+# Debugger and other temporary files
+*.swp
+*.swo
+
+# Ignore tarballs (TGZ files)
+*.tgz
