@@ -1,5 +1,8 @@
 # <img src="assets/logo.svg" width="200" />
 
+[![NPM package](https://img.shields.io/npm/v/aisync.svg?style=flat-square)](https://www.npmjs.com/package/aisync)
+[![License: MIT](https://img.shields.io/github/license/mortend/aisync.svg?style=flat-square)](LICENSE)
+
 Seamlessly sync the latest AI output in a flash. 🧠⚡
 
 `aisync` is a simple yet powerful tool that automatically finds the most recent `.zip` file in your Downloads folder, typically output from AI systems, and extracts it to your current working directory. Perfect for quickly managing and updating AI-generated files.
@@ -19,7 +22,7 @@ npm install aisync
 
 ## Usage
 
-You can use `aisync` from the command line with anywhere with `npx`:
+You can use `aisync` from the command-line anywhere with `npx`:
 
 ```bash
 npx aisync

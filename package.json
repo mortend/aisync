@@ -32,5 +32,13 @@
     "ai-output"
   ],
   "author": "Morten D. Fornes",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortend/aisync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mortend/aisync/issues"
+  },
+  "homepage": "https://github.com/mortend/aisync#readme"
 }
