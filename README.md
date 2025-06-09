@@ -1,5 +1,4 @@
-
-# `aisync`
+# <img src="assets/logo.svg" width="200" />
 
 Seamlessly sync the latest AI output in a flash. 🧠⚡
 
