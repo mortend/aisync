@@ -72,7 +72,7 @@ function extractZip(zipFile: string): void {
 
 // Command handler for unzip
 program
-  .name('aisync')
+  .name('gptsync')
   .description('Seamlessly sync the latest AI output in a flash.')
   .version(version) // Set version from package.json
   .helpOption('-h, --help', 'Show help') // Ensure help works

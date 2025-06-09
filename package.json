@@ -1,5 +1,5 @@
 {
-  "name": "aisync",
+  "name": "gptsync",
   "version": "1.0.0",
   "description": "Seamlessly sync the latest AI output in a flash.",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
     "dev": "tsc --watch"
   },
   "bin": {
-    "aisync": "./dist/index.js"
+    "gptsync": "./dist/index.js"
   },
   "dependencies": {
     "commander": "^10.0.0",
@@ -35,10 +35,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mortend/aisync.git"
+    "url": "git+https://github.com/mortend/gptsync.git"
   },
   "bugs": {
-    "url": "https://github.com/mortend/aisync/issues"
+    "url": "https://github.com/mortend/gptsync/issues"
   },
-  "homepage": "https://github.com/mortend/aisync#readme"
+  "homepage": "https://github.com/mortend/gptsync#readme"
 }
